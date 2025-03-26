@@ -1,4 +1,4 @@
-# 🚀 Project Name
+# 🚀 AI Data profiling
 
 ## 📌 Table of Contents
 - [Introduction](#introduction)
